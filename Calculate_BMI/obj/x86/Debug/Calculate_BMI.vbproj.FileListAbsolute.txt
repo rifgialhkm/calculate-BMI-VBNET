@@ -1,0 +1,9 @@
+C:\Users\RIFGI\Documents\Visual Studio 2010\Projects\Calculate_BMI\Calculate_BMI\bin\Debug\Calculate_BMI.exe
+C:\Users\RIFGI\Documents\Visual Studio 2010\Projects\Calculate_BMI\Calculate_BMI\bin\Debug\Calculate_BMI.pdb
+C:\Users\RIFGI\Documents\Visual Studio 2010\Projects\Calculate_BMI\Calculate_BMI\bin\Debug\Calculate_BMI.xml
+C:\Users\RIFGI\Documents\Visual Studio 2010\Projects\Calculate_BMI\Calculate_BMI\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\RIFGI\Documents\Visual Studio 2010\Projects\Calculate_BMI\Calculate_BMI\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\RIFGI\Documents\Visual Studio 2010\Projects\Calculate_BMI\Calculate_BMI\obj\x86\Debug\Calculate_BMI.vbproj.GenerateResource.Cache
+C:\Users\RIFGI\Documents\Visual Studio 2010\Projects\Calculate_BMI\Calculate_BMI\obj\x86\Debug\Calculate_BMI.exe
+C:\Users\RIFGI\Documents\Visual Studio 2010\Projects\Calculate_BMI\Calculate_BMI\obj\x86\Debug\Calculate_BMI.xml
+C:\Users\RIFGI\Documents\Visual Studio 2010\Projects\Calculate_BMI\Calculate_BMI\obj\x86\Debug\Calculate_BMI.pdb
